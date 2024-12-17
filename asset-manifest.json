@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf655711.css",
-    "main.js": "/static/js/main.18ce4d29.js",
-    "static/media/ML.webp": "/static/media/ML.dca389d47123538321ad.webp",
-    "static/media/homepage.webp": "/static/media/homepage.d30949a747e45619fa8b.webp",
-    "static/media/robot1.png": "/static/media/robot1.58ef512b17165d2d4c52.png",
-    "static/media/career.png": "/static/media/career.1e84733ac7a1bd15bb0a.png",
-    "static/media/AI.jpg": "/static/media/AI.3318555c0ae4bf9df474.jpg",
-    "static/media/da.webp": "/static/media/da.49367f6e81877fc9a958.webp",
-    "static/media/right.jpg": "/static/media/right.f1f14eae93d07ebad9aa.jpg",
-    "static/media/left1.avif": "/static/media/left1.4da6470f6445f5c2ddc0.avif",
-    "static/media/gradient.avif": "/static/media/gradient.d4a6aa44209151d9cfe4.avif",
-    "static/media/b1.jpg": "/static/media/b1.9726663498abd51ab644.jpg",
-    "static/media/image4.jpeg": "/static/media/image4.35bc584382802b038e08.jpeg",
-    "index.html": "/index.html",
-    "main.cf655711.css.map": "/static/css/main.cf655711.css.map",
-    "main.18ce4d29.js.map": "/static/js/main.18ce4d29.js.map"
+    "main.css": "/GrapsNextSocials/static/css/main.4ecdcaa6.css",
+    "main.js": "/GrapsNextSocials/static/js/main.f4b68088.js",
+    "static/media/ML.webp": "/GrapsNextSocials/static/media/ML.dca389d47123538321ad.webp",
+    "static/media/homepage.webp": "/GrapsNextSocials/static/media/homepage.d30949a747e45619fa8b.webp",
+    "static/media/robot1.png": "/GrapsNextSocials/static/media/robot1.58ef512b17165d2d4c52.png",
+    "static/media/career.png": "/GrapsNextSocials/static/media/career.1e84733ac7a1bd15bb0a.png",
+    "static/media/AI.jpg": "/GrapsNextSocials/static/media/AI.3318555c0ae4bf9df474.jpg",
+    "static/media/da.webp": "/GrapsNextSocials/static/media/da.49367f6e81877fc9a958.webp",
+    "static/media/right.jpg": "/GrapsNextSocials/static/media/right.f1f14eae93d07ebad9aa.jpg",
+    "static/media/left1.avif": "/GrapsNextSocials/static/media/left1.4da6470f6445f5c2ddc0.avif",
+    "static/media/gradient.avif": "/GrapsNextSocials/static/media/gradient.d4a6aa44209151d9cfe4.avif",
+    "static/media/b1.jpg": "/GrapsNextSocials/static/media/b1.9726663498abd51ab644.jpg",
+    "static/media/image4.jpeg": "/GrapsNextSocials/static/media/image4.35bc584382802b038e08.jpeg",
+    "index.html": "/GrapsNextSocials/index.html",
+    "main.4ecdcaa6.css.map": "/GrapsNextSocials/static/css/main.4ecdcaa6.css.map",
+    "main.f4b68088.js.map": "/GrapsNextSocials/static/js/main.f4b68088.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf655711.css",
-    "static/js/main.18ce4d29.js"
+    "static/css/main.4ecdcaa6.css",
+    "static/js/main.f4b68088.js"
   ]
 }
